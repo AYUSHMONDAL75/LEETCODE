@@ -10,4 +10,4 @@ class Solution(object):
         if(n % 2 == 1):
             return float (marge[n // 2])
         else :
-            return float (marge[n // 2 - 1] + marge[n // 2]) / 2
+            return float (marge[n // 2 - 1] + marge[n // 2]) / 2.0
