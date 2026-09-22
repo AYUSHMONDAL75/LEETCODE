@@ -11,5 +11,5 @@ class Solution(object):
 
         if res < -2**31 or res > 2**31 - 1:
             return 0
-
+            
         return res
