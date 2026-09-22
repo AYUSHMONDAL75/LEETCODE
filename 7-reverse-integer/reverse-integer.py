@@ -4,7 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        if (x < 0):
+        if x < 0:
             res = -int(str(abs(x))[::-1])
         else:
             res = int(str(x)[::-1])
