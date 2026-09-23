@@ -8,7 +8,7 @@ class Solution(object):
         nums.sort()
         result = []
         for i in range(0, len(nums)):
-            square = nums[i]**2
+            square = nums[i] ** 2
             result.append(square)
-            result.sort()
+        result.sort()
         return result
