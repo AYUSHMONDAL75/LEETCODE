@@ -7,5 +7,6 @@ class Solution(object):
         """
         num = int("".join(map(str, num)))
         sum = num + k
-        
-        return list(map(int, str(sum)))
+        result = list(map(int, str(sum)))
+
+        return result
