@@ -10,4 +10,5 @@ class Solution(object):
                 sum += nums[i]
             else:
                 sum -= nums[i]
+                
         return sum
