@@ -7,4 +7,5 @@ class Solution(object):
         :rtype: int
         """
         num = int("".join(map(str, b)))
+        
         return pow(a, num, 1337)
