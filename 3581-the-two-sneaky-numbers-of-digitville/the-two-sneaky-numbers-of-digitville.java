@@ -7,7 +7,6 @@ class Solution {
         }
         int[] result = new int[2];
         int idx = 0;
-        
         for(Integer key : map.keySet()){
             if(map.get(key) > 1){
                 result[idx++] = key;
