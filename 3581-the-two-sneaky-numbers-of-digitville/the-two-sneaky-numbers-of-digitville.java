@@ -12,7 +12,6 @@ class Solution {
                 result[idx++] = key;
             }
         }
-        
         return result;
     }
 }
