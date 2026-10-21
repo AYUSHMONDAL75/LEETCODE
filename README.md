@@ -1,14 +1,18 @@
 # LeetCode-Daily
 
-My daily LeetCode problem solutions, written while practicing DSA and problem solving.
+My daily LeetCode problem solutions, written while practicing DSA, Arrays, Math and many problem solving.
 
 ## Language
 
-Java, Python, C, C++, Javascript 
+Java, Python, C, C++, Javascript
 
 ## LeetCode Profile
 
-[My LeetCode Profile](https://leetcode.com/u/your-username/)
+[My LeetCode Profile](https://leetcode.com/u/ayush_mondal_sonu/)
+
+## Topics I have solved
+
+Array, String, Hash Table, Two Pointers, Sorting, Searching, Math, DSA
 
 ## My approach
 
