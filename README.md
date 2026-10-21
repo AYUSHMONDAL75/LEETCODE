@@ -4,7 +4,7 @@ My daily LeetCode problem solutions, written while practicing DSA and problem so
 
 ## Language
 
-Java (or C / Python, whichever you use)
+Java
 
 ## Folder structure
 
@@ -21,16 +21,12 @@ Java (or C / Python, whichever you use)
 | 1 | Two Sum | Easy | Array, Hash Map | [Solution](Easy/TwoSum.java) |
 | 2 | Add Two Numbers | Medium | Linked List | [Solution](Medium/AddTwoNumbers.java) |
 
-## Topics covered
+## My approach
 
-- Arrays and strings
-- Hash maps
-- Two pointers and sliding window
-- Linked lists
-- Stack and queue
-- Recursion and backtracking
-- Trees and graphs
-- Dynamic programming
+- Try the problem on my own first
+- Write the brute force solution, then optimize it
+- Note the time and space complexity
+- Revisit the problem after a few days
 
 ## Progress
 
