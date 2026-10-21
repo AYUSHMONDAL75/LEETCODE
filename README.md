@@ -4,29 +4,24 @@ My daily LeetCode problem solutions, written while practicing DSA and problem so
 
 ## Language
 
-Java
+Java, Python, C, C++, Javascript 
 
-## Problem list
+## LeetCode Profile
 
-| No. | Problem | Difficulty | Topic | Solution |
-|-----|---------|------------|-------|----------|
-| 1 | Two Sum | Easy | Array, Hash Map | [Solution](TwoSum.java) |
-| 2 | Add Two Numbers | Medium | Linked List | [Solution](AddTwoNumbers.java) |
-| 3 | Median of Two Sorted Arrays | Hard | Binary Search | [Solution](MedianOfTwoSortedArrays.java) |
+[My LeetCode Profile](https://leetcode.com/u/your-username/)
 
 ## My approach
 
 - Try the problem on my own first
 - Write the brute force solution, then optimize it
-- Note the time and space complexity
 - Revisit the problem after a few days
 
 ## Progress
 
-- Easy: 0
-- Medium: 0
-- Hard: 0
-- Total solved: 0
+- Easy: 50
+- Medium: 18
+- Hard: 2
+- Total solved: 70
 
 ## Author
 
