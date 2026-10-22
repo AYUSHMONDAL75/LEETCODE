@@ -5,7 +5,6 @@
 var missingNumber = function(nums) {
     let Xor = 0;
     let ans = 0;
-
     for (let i = 0; i <= nums.length; i++){
         ans ^= i;
     } for (let i = 0; i < nums.length; i++){
