@@ -23,7 +23,7 @@ Array, String, Hash Table, Two Pointers, Sorting, Searching, Math, DSA
 ## Progress
 
 - Easy: 52
-- Medium: 12
+- Medium: 22
 - Hard: 2
 - Total solved: 76
 
