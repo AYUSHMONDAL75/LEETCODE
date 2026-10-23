@@ -7,7 +7,6 @@ class Solution(object):
         ans = ""
 
         for c in s:
-
             if c.isdigit():
                 ans = ans[:-1]
             else:
