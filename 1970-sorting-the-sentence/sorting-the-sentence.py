@@ -10,4 +10,5 @@ class Solution(object):
         for word in words:
             pos = int(word[-1]) - 1
             res[pos] = word[:-1]
+            
         return " ".join(res)
