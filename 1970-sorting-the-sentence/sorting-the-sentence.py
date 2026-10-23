@@ -11,4 +11,3 @@ class Solution(object):
             res[pos] = word[:-1]
 
         return " ".join(res)
-        
