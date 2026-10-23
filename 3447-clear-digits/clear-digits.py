@@ -4,11 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        ans = ""
+        ans =  ""
+
         for c in s:
             if c.isdigit():
                 ans = ans[:-1]
             else:
                 ans += c
-                
+
         return ans
