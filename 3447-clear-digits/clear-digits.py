@@ -10,4 +10,5 @@ class Solution(object):
                 ans = ans[:-1]
             else:
                 ans += c
+                
         return ans
