@@ -6,7 +6,7 @@ class Solution(object):
         """
         ans = []
         for i in range(1, n + 1):
-            if(i % 3 == 0 and i % 5 == 0):
+            if i % 3 == 0 and i % 5 == 0:
                 ans.append("FizzBuzz")
             elif i % 3 == 0:
                 ans.append("Fizz")
@@ -14,5 +14,4 @@ class Solution(object):
                 ans.append("Buzz")
             else:
                 ans.append(str(i))
-
         return ans
