@@ -14,5 +14,5 @@ class Solution(object):
                 ans.append("Buzz")
             else:
                 ans.append(str(i))
+                
         return ans
-        
