@@ -1,13 +1,16 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        
-        for i in range(0, len(nums)):
-            for j in range(i + 1, len(nums)):
-                if (nums[i] + nums[j] == target):
+        arr = sorted((nums[i], i) for i in range(len(nums)))
 
-                    return (i, j)
+        left = 0
+        right = len(arr) - 1
+
+        while left < right:
+            sum = arr[left][0] + arr[right][0]
+
+            if sum > target:
+                right -= 1
+            elif sum < target:
+                left += 1
+            else:
+                return [arr[left][1], arr[right][1]]
