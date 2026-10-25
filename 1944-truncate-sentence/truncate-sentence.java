@@ -5,7 +5,6 @@ class Solution {
 
         for(int i = 0; i < k; i++){
             ans += arr[i];
-            
             if (i < k - 1) {
                 ans += " ";
             }
