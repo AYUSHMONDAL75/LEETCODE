@@ -4,7 +4,6 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             set.add(s.charAt(i));
         }
-
         return set.size();
     }
 }
