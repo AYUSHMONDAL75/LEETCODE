@@ -6,6 +6,7 @@ public:
         for(int i = 1; i < pref.size(); i++){
             ans[i] = pref[i - 1] ^ pref[i];
         }
+        
         return ans;
     }
 };
