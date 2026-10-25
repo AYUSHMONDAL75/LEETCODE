@@ -11,7 +11,7 @@ class Solution {
         for (int d : mp.keySet()){
             ans += d * mp.get(d);
         }
-        
+
         return ans;
     }
 }
