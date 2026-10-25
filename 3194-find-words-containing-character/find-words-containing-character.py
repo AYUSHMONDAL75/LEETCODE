@@ -9,4 +9,5 @@ class Solution(object):
         for i in range(len(words)):
             if x in words[i]:
                 ans.append(i)
+                
         return ans
