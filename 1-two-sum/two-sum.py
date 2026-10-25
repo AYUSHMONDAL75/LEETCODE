@@ -3,7 +3,7 @@ class Solution(object):
         arr = sorted((nums[i], i) for i in range(len(nums)))
         left = 0
         right = len(arr) - 1
-        
+
         while left < right:
             sum = arr[left][0] + arr[right][0]
             if sum > target:
@@ -11,4 +11,5 @@ class Solution(object):
             elif sum < target:
                 left += 1
             else:
+                
                 return [arr[left][1], arr[right][1]]
