@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: List[int]
         """
         ans = []
-        
         for i in range(len(words)):
             if x in words[i]:
                 ans.append(i)
