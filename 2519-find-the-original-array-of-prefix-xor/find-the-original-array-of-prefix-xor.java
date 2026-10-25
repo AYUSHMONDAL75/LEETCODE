@@ -5,6 +5,7 @@ class Solution {
         for(int i = 1; i < pref.length; i++){
             ans[i] = pref[i - 1] ^ pref[i];
         }
+        
         return ans;
     }
 }
