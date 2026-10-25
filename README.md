@@ -22,10 +22,10 @@ Array, String, Hash Table, Two Pointers, Sorting, Searching, Math, DSA
 
 ## Progress
 
-- Easy: 52
-- Medium: 22
+- Easy: 56
+- Medium: 24
 - Hard: 2
-- Total solved: 76
+- Total solved: 82
 
 ## Author
 
