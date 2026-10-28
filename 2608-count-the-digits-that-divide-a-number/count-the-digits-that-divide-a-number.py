@@ -10,6 +10,6 @@ class Solution(object):
             rem = num % 10
             if(nums % rem == 0):
                 count += 1
-            num /= 10
+            num //= 10
         
         return count
