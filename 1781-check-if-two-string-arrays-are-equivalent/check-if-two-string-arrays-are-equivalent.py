@@ -7,7 +7,8 @@ class Solution(object):
         """
         s1 = "".join(word1)
         s2 = "".join(word2)
-        if s1 == s2:
-            return True
-        else:
-            return False
+        return s1 == s2
+        # if s1 == s2:
+        #     return True
+        # else:
+        #     return False
