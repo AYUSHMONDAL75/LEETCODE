@@ -25,7 +25,7 @@ Array, String, Hash Table, Two Pointers, Sorting, Searching, Math, DSA
 - Easy: 63
 - Medium: 25
 - Hard: 2
-- Total solved: 99
+- Total solved: 90
 
 ## Author
 
