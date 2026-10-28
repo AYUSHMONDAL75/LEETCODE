@@ -19,6 +19,7 @@ Array, String, Hash Table, Two Pointers, Sorting, Searching, Math, DSA
 - Try the problem on my own first
 - Write the brute force solution, then optimize it
 - Revisit the problem after a few days
+- Optimal Solution 
 
 ## Progress
 
