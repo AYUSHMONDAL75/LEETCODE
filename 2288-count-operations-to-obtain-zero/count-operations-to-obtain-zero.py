@@ -12,5 +12,5 @@ class Solution(object):
             else:
                 num2 -= num1
             count += 1
-
         return count
+        
