@@ -11,5 +11,6 @@ class Solution(object):
                 num1 -= num2
             else:
                 num2 -= num1
-            count = count + 1
+            count += 1
+
         return count
