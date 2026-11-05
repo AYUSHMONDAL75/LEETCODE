@@ -15,4 +15,5 @@ class Solution(object):
                 digit = nums[i] % 10
                 sum += digit
                 nums[i] = nums[i] // 10
+                
         return abs(sum - x)
