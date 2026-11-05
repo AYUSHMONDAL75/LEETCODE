@@ -7,7 +7,6 @@ public:
                 sum += i;
             }
         }
-        
         return sum;
     }
 };
