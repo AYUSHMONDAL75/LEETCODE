@@ -10,7 +10,6 @@ public:
                 num2 += i;
             }
         }
-        
         return num1 - num2;
     }
 };
