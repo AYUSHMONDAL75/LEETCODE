@@ -13,5 +13,5 @@ class Solution(object):
                 nums[i] /= 10
                 if rem == digit:
                     count += 1
-                    
+
         return count
