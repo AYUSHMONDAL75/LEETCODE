@@ -3,13 +3,10 @@ class Solution(object):
         while True:
             num = n
             product = 1
-
             while num > 0:
                 rem = num % 10
                 product *= rem
                 num //= 10
-
             if product % t == 0:
                 return n
-
             n += 1
