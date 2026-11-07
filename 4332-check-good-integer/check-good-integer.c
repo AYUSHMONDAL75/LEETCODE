@@ -11,5 +11,6 @@ bool checkGoodInteger(int n) {
             return true;
         }else{
             return false;
+            
         }
 }
