@@ -11,4 +11,5 @@ int smallestIndex(int* nums, int numsSize) {
             }
         }
         return -1;
+        
 }
