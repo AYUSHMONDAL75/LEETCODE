@@ -11,5 +11,5 @@ class Solution(object):
             else:
                 ans.append(1)
         ans.sort()
-        
         return ans
+        
