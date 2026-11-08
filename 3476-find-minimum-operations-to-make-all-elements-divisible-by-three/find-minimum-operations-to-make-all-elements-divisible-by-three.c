@@ -5,5 +5,6 @@ int minimumOperations(int* nums, int numsSize) {
                 count ++;
             }
         }
+        
         return count;
 }
