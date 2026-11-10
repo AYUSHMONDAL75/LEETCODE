@@ -6,4 +6,5 @@ class Solution(object):
                 arr.pop()
             else:
                 arr.append(s[i])
+                
         return "".join(arr)
