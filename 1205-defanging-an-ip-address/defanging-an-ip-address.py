@@ -5,4 +5,5 @@ class Solution(object):
         :rtype: str
         """
         ans = address.replace(".", "[.]")
+        
         return ans
