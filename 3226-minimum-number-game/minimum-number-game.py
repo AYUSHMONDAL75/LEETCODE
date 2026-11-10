@@ -12,4 +12,5 @@ class Solution(object):
             nums.remove(b)
             arr.append(b)
             arr.append(a)
+
         return arr
