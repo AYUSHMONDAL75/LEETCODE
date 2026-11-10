@@ -5,4 +5,5 @@ class Solution(object):
             age = int(details[i][11:13])
             if age > 60:
                 count += 1
+                
         return count
