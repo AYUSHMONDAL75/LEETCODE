@@ -6,5 +6,5 @@ class Solution(object):
         :rtype: int
         """
         ans = sum(nums)
-        
         return ans % k
+        
