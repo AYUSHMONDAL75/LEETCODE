@@ -14,4 +14,5 @@ class Solution(object):
 
             arr.append(b)
             arr.append(a)
+            
         return arr
